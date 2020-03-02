@@ -1,0 +1,97 @@
+[[bsdiff_endsley]]
+arch = "aarch64"
+git-tree-sha1 = "ce0fa2be0dcfb7080f65a0e3bebb15104d17101b"
+libc = "musl"
+os = "linux"
+
+    [[bsdiff_endsley.download]]
+    sha256 = "ec700114fb8551e823540980a71409f5d3d043aff1c7c09d5d99d385e2a3a3f1"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_endsley_jll.jl/releases/download/bsdiff_endsley-v4.3.0+0/bsdiff_endsley.v4.3.0.aarch64-linux-musl.tar.gz"
+[[bsdiff_endsley]]
+arch = "x86_64"
+git-tree-sha1 = "d69b07297686aa806086e20690b25435a9c5d25b"
+libc = "musl"
+os = "linux"
+
+    [[bsdiff_endsley.download]]
+    sha256 = "de4c3c737739723e64b0e3abf44c4e0a9acdb6f1e4e98b19ca2483cfcec71443"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_endsley_jll.jl/releases/download/bsdiff_endsley-v4.3.0+0/bsdiff_endsley.v4.3.0.x86_64-linux-musl.tar.gz"
+[[bsdiff_endsley]]
+arch = "i686"
+git-tree-sha1 = "a4e4bc6a7d75f7c42cba9c1770aef3c36f8a78c7"
+libc = "glibc"
+os = "linux"
+
+    [[bsdiff_endsley.download]]
+    sha256 = "7935440dfe8d1897170fb72a1c57141bbf8dd1020dac673eb1f16c677ecec522"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_endsley_jll.jl/releases/download/bsdiff_endsley-v4.3.0+0/bsdiff_endsley.v4.3.0.i686-linux-gnu.tar.gz"
+[[bsdiff_endsley]]
+arch = "armv7l"
+git-tree-sha1 = "4441966d10448843330c79c772df95f9f067bd3f"
+libc = "glibc"
+os = "linux"
+
+    [[bsdiff_endsley.download]]
+    sha256 = "34713a7480d22b27a0644e439b6fe922af7420d3f06ce7cec326221cd008e3ec"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_endsley_jll.jl/releases/download/bsdiff_endsley-v4.3.0+0/bsdiff_endsley.v4.3.0.armv7l-linux-gnueabihf.tar.gz"
+[[bsdiff_endsley]]
+arch = "aarch64"
+git-tree-sha1 = "39c6cc6a76bd6bb26fd08276a4f7a15232cda0bd"
+libc = "glibc"
+os = "linux"
+
+    [[bsdiff_endsley.download]]
+    sha256 = "33a3928e70a1defa806e6022129a91b03ddfd6759db82c132335699846342a46"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_endsley_jll.jl/releases/download/bsdiff_endsley-v4.3.0+0/bsdiff_endsley.v4.3.0.aarch64-linux-gnu.tar.gz"
+[[bsdiff_endsley]]
+arch = "x86_64"
+git-tree-sha1 = "1fff0a113b4e71bf629ba857e0abb83f1d00570e"
+libc = "glibc"
+os = "linux"
+
+    [[bsdiff_endsley.download]]
+    sha256 = "1081e39ec1449b9c4081d866b410129f46755d741efe07ce8caa81d98d24c802"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_endsley_jll.jl/releases/download/bsdiff_endsley-v4.3.0+0/bsdiff_endsley.v4.3.0.x86_64-linux-gnu.tar.gz"
+[[bsdiff_endsley]]
+arch = "powerpc64le"
+git-tree-sha1 = "e4aa3012ff9e21acf04951bc1f181b13fc2fb4e2"
+libc = "glibc"
+os = "linux"
+
+    [[bsdiff_endsley.download]]
+    sha256 = "461241dc66ac7b82d53b8aaffae072286249b0e26c06e03fee58a874604f8eb2"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_endsley_jll.jl/releases/download/bsdiff_endsley-v4.3.0+0/bsdiff_endsley.v4.3.0.powerpc64le-linux-gnu.tar.gz"
+[[bsdiff_endsley]]
+arch = "x86_64"
+git-tree-sha1 = "c6e9a0bd813c6586a1d2d06fe3532e4d02d5dcd6"
+os = "macos"
+
+    [[bsdiff_endsley.download]]
+    sha256 = "4a7e0a7bd227694add3f8084c5c4bb774c6b1cda85d5f502393e375ea403b0ec"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_endsley_jll.jl/releases/download/bsdiff_endsley-v4.3.0+0/bsdiff_endsley.v4.3.0.x86_64-apple-darwin14.tar.gz"
+[[bsdiff_endsley]]
+arch = "x86_64"
+git-tree-sha1 = "7533b2d44c935afaa2ad9f466ba18ff4f580a925"
+os = "freebsd"
+
+    [[bsdiff_endsley.download]]
+    sha256 = "6165f8a73d76947fe6c488db6b0d6323d335369ccc98e9d464e048cda16f9160"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_endsley_jll.jl/releases/download/bsdiff_endsley-v4.3.0+0/bsdiff_endsley.v4.3.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[bsdiff_endsley]]
+arch = "i686"
+git-tree-sha1 = "8907a10d42f71aa016c4a29949660dcf654b711e"
+libc = "musl"
+os = "linux"
+
+    [[bsdiff_endsley.download]]
+    sha256 = "066de099e1712acc70cb69d8d57a4a590980609862f6bb6272f52ccad15c87a6"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_endsley_jll.jl/releases/download/bsdiff_endsley-v4.3.0+0/bsdiff_endsley.v4.3.0.i686-linux-musl.tar.gz"
+[[bsdiff_endsley]]
+arch = "armv7l"
+git-tree-sha1 = "1dda8ed5e395983260978eae597bd083d0b9e13f"
+libc = "musl"
+os = "linux"
+
+    [[bsdiff_endsley.download]]
+    sha256 = "ccb0ba32b7f8650600932fcf8a4381c4c4ee4c6dc4b666ece511b8ca178ad01e"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_endsley_jll.jl/releases/download/bsdiff_endsley-v4.3.0+0/bsdiff_endsley.v4.3.0.armv7l-linux-musleabihf.tar.gz"
